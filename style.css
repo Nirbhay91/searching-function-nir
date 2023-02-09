@@ -1,0 +1,24 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.box {
+  border: 1px solid gray;
+  height: 190px;
+}
+
+.box p {
+  text-align: center;
+  padding: 20px;
+}
+.addfev {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+table,
+th,
+td {
+  border: 1px solid;
+}
